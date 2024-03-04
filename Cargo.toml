@@ -8,7 +8,7 @@ description = "Everything in .chrom from GTF/GFF"
 homepage = "https://github.com/alejandrogzi/gxf2chrom"
 repository = "https://github.com/alejandrogzi/gxf2chrom"
 readme = "README.md"
-keywords = ["chrom", "gtf", "gff" ,"cli", "convert", "odp"]
+keywords = ["chrom", "gtf", "gff" ,"cli", "convert"]
 categories = ["command-line-utilities", "science"]
 
 
